@@ -1,0 +1,7 @@
+.git
+.gitignore
+.env
+scratch/
+storage/logs/*.log
+storage/backups/*.sql
+*.md

@@ -1,0 +1,2302 @@
+[
+    {
+        "product_id": 1,
+        "sku": "PRD-BRK-001",
+        "product_name": "Brake Shoe Rear Boxer BM150 (Viatu vya Breki)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/PRD-BRK-001-brake-shoe-rear-boxer-bm150-vi.jpg",
+        "image_url": "/assets/images/products/brakes/PRD-BRK-001-brake-shoe-rear-boxer-bm150-vi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 2,
+        "sku": "PRD-CLT-002",
+        "product_name": "Clutch Plate Set Bajaj RE 4S (Seti ya Klachi)",
+        "category": "CLT",
+        "image": "assets/images/products/clutch/PRD-CLT-002-clutch-plate-set-bajaj-re-4s-s.jpg",
+        "image_url": "/assets/images/products/clutch/PRD-CLT-002-clutch-plate-set-bajaj-re-4s-s.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 3,
+        "sku": "PRD-ENG-003",
+        "product_name": "Spark Plug NGK CPR8EA-9 (Plagi)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/PRD-ENG-003-spark-plug-ngk-cpr8ea-9-plagi.jpg",
+        "image_url": "/assets/images/products/engine/PRD-ENG-003-spark-plug-ngk-cpr8ea-9-plagi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 4,
+        "sku": "PRD-CHN-004",
+        "product_name": "Chain & Sprocket Set Boxer BM150 (Mnyororo)",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/PRD-CHN-004-chain-sprocket-set-boxer-bm150.jpg",
+        "image_url": "/assets/images/products/transmission/PRD-CHN-004-chain-sprocket-set-boxer-bm150.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 5,
+        "sku": "PRD-OIL-005",
+        "product_name": "Engine Oil Total 4T 20W-50 1 Litre (Oili)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/PRD-OIL-005-engine-oil-total-4t-20w-50-1-l.jpg",
+        "image_url": "/assets/images/products/fuel/PRD-OIL-005-engine-oil-total-4t-20w-50-1-l.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 6,
+        "sku": "PRD-ENG-006",
+        "product_name": "Piston Kit Standard TVS HLX 125 (Pistoni)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/PRD-ENG-006-piston-kit-standard-tvs-hlx-12.jpg",
+        "image_url": "/assets/images/products/engine/PRD-ENG-006-piston-kit-standard-tvs-hlx-12.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 7,
+        "sku": "PRD-TYR-007",
+        "product_name": "Tube Kingstone Heavy Duty 3.00-17 (Tyubu)",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/PRD-TYR-007-tube-kingstone-heavy-duty-3-00.jpg",
+        "image_url": "/assets/images/products/tyres/PRD-TYR-007-tube-kingstone-heavy-duty-3-00.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 8,
+        "sku": "PRD-ELE-008",
+        "product_name": "Headlight Bulb 12V 35/35W Bajaj RE / TVS King (Taa)",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/PRD-ELE-008-headlight-bulb-12v-35-35w-baja.jpg",
+        "image_url": "/assets/images/products/electrical/PRD-ELE-008-headlight-bulb-12v-35-35w-baja.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 9,
+        "sku": "PRD-SUS-009",
+        "product_name": "Rear Shock Absorber Pair Boxer BM150 (Shockup Jozi)",
+        "category": "SUS",
+        "image": "assets/images/products/suspension/PRD-SUS-009-rear-shock-absorber-pair-boxer.jpg",
+        "image_url": "/assets/images/products/suspension/PRD-SUS-009-rear-shock-absorber-pair-boxer.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 10,
+        "sku": "PRD-CBL-010",
+        "product_name": "Throttle Cable TVS HLX 125 (Waya wa Mafuta)",
+        "category": "CBL",
+        "image": "assets/images/products/accessories/PRD-CBL-010-throttle-cable-tvs-hlx-125-way.jpg",
+        "image_url": "/assets/images/products/accessories/PRD-CBL-010-throttle-cable-tvs-hlx-125-way.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 119,
+        "sku": "CONC-88649",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 120,
+        "sku": "CONC-88854",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 121,
+        "sku": "CONC-88909",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 122,
+        "sku": "CONC-88984",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 123,
+        "sku": "CONC-89051",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 124,
+        "sku": "CONC-89119",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 125,
+        "sku": "CONC-89225",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 129,
+        "sku": "CONC-89835",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 130,
+        "sku": "CONC-92217",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 131,
+        "sku": "CONC-61317",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 132,
+        "sku": "CAT-ENG-001",
+        "product_name": "Piston Kit Standard (Pistoni na Rings)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-ENG-001-piston-kit-standard-pistoni-na.jpg",
+        "image_url": "/assets/images/products/engine/CAT-ENG-001-piston-kit-standard-pistoni-na.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 133,
+        "sku": "CAT-ENG-002",
+        "product_name": "Cylinder Block Kit (Silinda na Pistoni)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-ENG-002-cylinder-block-kit-silinda-na-.jpg",
+        "image_url": "/assets/images/products/engine/CAT-ENG-002-cylinder-block-kit-silinda-na-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 134,
+        "sku": "CAT-ENG-003",
+        "product_name": "Complete Engine Gasket Kit (Seti ya Gasket)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-ENG-003-complete-engine-gasket-kit-set.jpg",
+        "image_url": "/assets/images/products/engine/CAT-ENG-003-complete-engine-gasket-kit-set.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 135,
+        "sku": "CAT-ENG-004",
+        "product_name": "Timing Chain & Tensioner Set",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-ENG-004-timing-chain-tensioner-set.jpg",
+        "image_url": "/assets/images/products/engine/CAT-ENG-004-timing-chain-tensioner-set.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 136,
+        "sku": "CAT-ENG-005",
+        "product_name": "Intake & Exhaust Valves (Vali za Hewa na Moshi)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-ENG-005-intake-exhaust-valves-vali-za-.jpg",
+        "image_url": "/assets/images/products/engine/CAT-ENG-005-intake-exhaust-valves-vali-za-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 137,
+        "sku": "CAT-CLT-001",
+        "product_name": "Heavy Duty Clutch Plate Set",
+        "category": "CLT",
+        "image": "assets/images/products/clutch/CAT-CLT-001-heavy-duty-clutch-plate-set.jpg",
+        "image_url": "/assets/images/products/clutch/CAT-CLT-001-heavy-duty-clutch-plate-set.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 138,
+        "sku": "CAT-CLT-002",
+        "product_name": "Clutch Pressure Plate & Springs",
+        "category": "CLT",
+        "image": "assets/images/products/clutch/CAT-CLT-002-clutch-pressure-plate-springs.jpg",
+        "image_url": "/assets/images/products/clutch/CAT-CLT-002-clutch-pressure-plate-springs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 139,
+        "sku": "CAT-CLT-003",
+        "product_name": "Clutch Cable Assembly",
+        "category": "CBL",
+        "image": "assets/images/products/accessories/CAT-CLT-003-clutch-cable-assembly.jpg",
+        "image_url": "/assets/images/products/accessories/CAT-CLT-003-clutch-cable-assembly.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 140,
+        "sku": "CAT-BRK-001",
+        "product_name": "Ceramic Front Brake Pads",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/CAT-BRK-001-ceramic-front-brake-pads.jpg",
+        "image_url": "/assets/images/products/brakes/CAT-BRK-001-ceramic-front-brake-pads.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 141,
+        "sku": "CAT-BRK-002",
+        "product_name": "Rear Brake Shoe Set (Viatu vya Breki)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/CAT-BRK-002-rear-brake-shoe-set-viatu-vya-.jpg",
+        "image_url": "/assets/images/products/brakes/CAT-BRK-002-rear-brake-shoe-set-viatu-vya-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 142,
+        "sku": "CAT-BRK-003",
+        "product_name": "Front Brake Disc Rotor",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/CAT-BRK-003-front-brake-disc-rotor.jpg",
+        "image_url": "/assets/images/products/brakes/CAT-BRK-003-front-brake-disc-rotor.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 143,
+        "sku": "CAT-BRK-004",
+        "product_name": "Brake Master Cylinder Pump",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/CAT-BRK-004-brake-master-cylinder-pump.jpg",
+        "image_url": "/assets/images/products/brakes/CAT-BRK-004-brake-master-cylinder-pump.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 144,
+        "sku": "CAT-ELE-001",
+        "product_name": "Maintenance Free 12V Battery",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/CAT-ELE-001-maintenance-free-12v-battery.jpg",
+        "image_url": "/assets/images/products/electrical/CAT-ELE-001-maintenance-free-12v-battery.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 145,
+        "sku": "CAT-ELE-002",
+        "product_name": "Digital CDI Unit",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/CAT-ELE-002-digital-cdi-unit.jpg",
+        "image_url": "/assets/images/products/electrical/CAT-ELE-002-digital-cdi-unit.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 146,
+        "sku": "CAT-ELE-003",
+        "product_name": "High Output Stator Coil / Magneto",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/CAT-ELE-003-high-output-stator-coil-magnet.jpg",
+        "image_url": "/assets/images/products/electrical/CAT-ELE-003-high-output-stator-coil-magnet.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 147,
+        "sku": "CAT-ELE-004",
+        "product_name": "LED Headlight Assembly",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/CAT-ELE-004-led-headlight-assembly.jpg",
+        "image_url": "/assets/images/products/electrical/CAT-ELE-004-led-headlight-assembly.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 148,
+        "sku": "CAT-FLT-001",
+        "product_name": "Standard Carburetor Assembly",
+        "category": "ENG",
+        "image": "assets/images/products/engine/CAT-FLT-001-standard-carburetor-assembly.jpg",
+        "image_url": "/assets/images/products/engine/CAT-FLT-001-standard-carburetor-assembly.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 149,
+        "sku": "CAT-FLT-002",
+        "product_name": "High Flow Fuel Filter",
+        "category": "FLT",
+        "image": "assets/images/products/fuel/CAT-FLT-002-high-flow-fuel-filter.jpg",
+        "image_url": "/assets/images/products/fuel/CAT-FLT-002-high-flow-fuel-filter.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 150,
+        "sku": "CAT-SUS-001",
+        "product_name": "Front Telescopic Fork Absorber",
+        "category": "SUS",
+        "image": "assets/images/products/suspension/CAT-SUS-001-front-telescopic-fork-absorber.jpg",
+        "image_url": "/assets/images/products/suspension/CAT-SUS-001-front-telescopic-fork-absorber.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 151,
+        "sku": "CAT-SUS-002",
+        "product_name": "Heavy Duty Rear Shock Absorber Pair",
+        "category": "SUS",
+        "image": "assets/images/products/suspension/CAT-SUS-002-heavy-duty-rear-shock-absorber.jpg",
+        "image_url": "/assets/images/products/suspension/CAT-SUS-002-heavy-duty-rear-shock-absorber.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 152,
+        "sku": "CAT-SUS-003",
+        "product_name": "Tapered Steering Stem Bearing Set",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/CAT-SUS-003-tapered-steering-stem-bearing-.jpg",
+        "image_url": "/assets/images/products/wheels/CAT-SUS-003-tapered-steering-stem-bearing-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 153,
+        "sku": "CAT-CHN-001",
+        "product_name": "Heavy Duty Drive Chain & Sprocket Kit (428H)",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CAT-CHN-001-heavy-duty-drive-chain-sprocke.jpg",
+        "image_url": "/assets/images/products/transmission/CAT-CHN-001-heavy-duty-drive-chain-sprocke.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 154,
+        "sku": "CAT-BAJ-001",
+        "product_name": "Bajaj RE 4S Differential Gear Set",
+        "category": "CLT",
+        "image": "assets/images/products/bajaj/CAT-BAJ-001-bajaj-re-4s-differential-gear-.jpg",
+        "image_url": "/assets/images/products/bajaj/CAT-BAJ-001-bajaj-re-4s-differential-gear-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 155,
+        "sku": "CAT-BAJ-002",
+        "product_name": "Bajaj Rear Axle Shaft Assembly",
+        "category": "CLT",
+        "image": "assets/images/products/bajaj/CAT-BAJ-002-bajaj-rear-axle-shaft-assembly.jpg",
+        "image_url": "/assets/images/products/bajaj/CAT-BAJ-002-bajaj-rear-axle-shaft-assembly.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 156,
+        "sku": "CAT-BAJ-003",
+        "product_name": "Bajaj Heavy Duty Brake Master Cylinder (Tricycle)",
+        "category": "BRK",
+        "image": "assets/images/products/bajaj/CAT-BAJ-003-bajaj-heavy-duty-brake-master-.jpg",
+        "image_url": "/assets/images/products/bajaj/CAT-BAJ-003-bajaj-heavy-duty-brake-master-.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 157,
+        "sku": "CAT-BAJ-004",
+        "product_name": "Bajaj Passenger Canopy Weather Shield",
+        "category": "BDY",
+        "image": "assets/images/products/bajaj/CAT-BAJ-004-bajaj-passenger-canopy-weather.jpg",
+        "image_url": "/assets/images/products/bajaj/CAT-BAJ-004-bajaj-passenger-canopy-weather.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 158,
+        "sku": "CONC-65895",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 159,
+        "sku": "CONC-66017",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 160,
+        "sku": "CONC-69222",
+        "product_name": "Kipuri cha Mtihani wa Ushindani Stock",
+        "category": "BRK",
+        "image": "assets/images/placeholder_product.svg",
+        "image_url": "/assets/images/placeholder_product.svg",
+        "status": "IMAGE_REQUIRED",
+        "physical_appearance_verified": false
+    },
+    {
+        "product_id": 176,
+        "sku": "ENG-001",
+        "product_name": "Pistoni",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-001-pistoni.jpg",
+        "image_url": "/assets/images/products/engine/ENG-001-pistoni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 177,
+        "sku": "ENG-002",
+        "product_name": "Pistoni",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-002-pistoni.jpg",
+        "image_url": "/assets/images/products/engine/ENG-002-pistoni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 178,
+        "sku": "ENG-003",
+        "product_name": "Pistoni",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-003-pistoni.jpg",
+        "image_url": "/assets/images/products/engine/ENG-003-pistoni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 179,
+        "sku": "ENG-004",
+        "product_name": "Bloku (Cylinder Block)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-004-bloku-cylinder-block.jpg",
+        "image_url": "/assets/images/products/engine/ENG-004-bloku-cylinder-block.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 180,
+        "sku": "ENG-005",
+        "product_name": "Valvu (Valves)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-005-valvu-valves.jpg",
+        "image_url": "/assets/images/products/engine/ENG-005-valvu-valves.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 181,
+        "sku": "ENG-006",
+        "product_name": "Valvu (Valves)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-006-valvu-valves.jpg",
+        "image_url": "/assets/images/products/engine/ENG-006-valvu-valves.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 182,
+        "sku": "ENG-007",
+        "product_name": "Shululi (Valve Seals)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-007-shululi-valve-seals.jpg",
+        "image_url": "/assets/images/products/engine/ENG-007-shululi-valve-seals.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 183,
+        "sku": "ENG-008",
+        "product_name": "Shululi (Valve Seals)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-008-shululi-valve-seals.jpg",
+        "image_url": "/assets/images/products/engine/ENG-008-shululi-valve-seals.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 184,
+        "sku": "ENG-009",
+        "product_name": "Timing Chain (Tamcheni)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-009-timing-chain-tamcheni.jpg",
+        "image_url": "/assets/images/products/engine/ENG-009-timing-chain-tamcheni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 185,
+        "sku": "ENG-010",
+        "product_name": "Klachi Peti",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-010-klachi-peti.jpg",
+        "image_url": "/assets/images/products/engine/ENG-010-klachi-peti.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 186,
+        "sku": "ENG-011",
+        "product_name": "Asili ya Klachi",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-011-asili-ya-klachi.jpg",
+        "image_url": "/assets/images/products/engine/ENG-011-asili-ya-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 187,
+        "sku": "ENG-012",
+        "product_name": "Keni Rodi (Connecting Rod)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-012-keni-rodi-connecting-rod.jpg",
+        "image_url": "/assets/images/products/engine/ENG-012-keni-rodi-connecting-rod.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 188,
+        "sku": "ENG-013",
+        "product_name": "Filta ya Hewa",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-013-filta-ya-hewa.jpg",
+        "image_url": "/assets/images/products/engine/ENG-013-filta-ya-hewa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 189,
+        "sku": "ENG-014",
+        "product_name": "Oil Filter (Bajaji)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-014-oil-filter-bajaji.jpg",
+        "image_url": "/assets/images/products/engine/ENG-014-oil-filter-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 190,
+        "sku": "ENG-015",
+        "product_name": "Fuel Filter (Bajaji)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-015-fuel-filter-bajaji.jpg",
+        "image_url": "/assets/images/products/engine/ENG-015-fuel-filter-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 191,
+        "sku": "ENG-016",
+        "product_name": "Fuel Lock (Bajaji)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-016-fuel-lock-bajaji.jpg",
+        "image_url": "/assets/images/products/engine/ENG-016-fuel-lock-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 192,
+        "sku": "ENG-017",
+        "product_name": "Gia za Bajaji",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-017-gia-za-bajaji.jpg",
+        "image_url": "/assets/images/products/engine/ENG-017-gia-za-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 193,
+        "sku": "ENG-018",
+        "product_name": "Papuqeeta (Pampu Oili)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-018-papuqeeta-pampu-oili.jpg",
+        "image_url": "/assets/images/products/engine/ENG-018-papuqeeta-pampu-oili.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 194,
+        "sku": "ENG-019",
+        "product_name": "Papuqeeta (Pampu Oili)",
+        "category": "ENG",
+        "image": "assets/images/products/engine/ENG-019-papuqeeta-pampu-oili.jpg",
+        "image_url": "/assets/images/products/engine/ENG-019-papuqeeta-pampu-oili.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 195,
+        "sku": "GSK-001",
+        "product_name": "Gasketi Full",
+        "category": "GSK",
+        "image": "assets/images/products/engine/GSK-001-gasketi-full.jpg",
+        "image_url": "/assets/images/products/engine/GSK-001-gasketi-full.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 196,
+        "sku": "GSK-002",
+        "product_name": "Gasketi ya Klachi",
+        "category": "GSK",
+        "image": "assets/images/products/engine/GSK-002-gasketi-ya-klachi.jpg",
+        "image_url": "/assets/images/products/engine/GSK-002-gasketi-ya-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 197,
+        "sku": "GSK-003",
+        "product_name": "Gasketi ya Bloku",
+        "category": "GSK",
+        "image": "assets/images/products/engine/GSK-003-gasketi-ya-bloku.jpg",
+        "image_url": "/assets/images/products/engine/GSK-003-gasketi-ya-bloku.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 198,
+        "sku": "GSK-004",
+        "product_name": "Gasketi Silinda Hedi",
+        "category": "GSK",
+        "image": "assets/images/products/engine/GSK-004-gasketi-silinda-hedi.jpg",
+        "image_url": "/assets/images/products/engine/GSK-004-gasketi-silinda-hedi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 199,
+        "sku": "BRK-001",
+        "product_name": "Brake Shoe (Bajaji)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-001-brake-shoe-bajaji.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-001-brake-shoe-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 200,
+        "sku": "BRK-002",
+        "product_name": "Wilisinda (Wheel Cylinder)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-002-wilisinda-wheel-cylinder.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-002-wilisinda-wheel-cylinder.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 201,
+        "sku": "BRK-003",
+        "product_name": "Master Cylinder ya Breki",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-003-master-cylinder-ya-breki.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-003-master-cylinder-ya-breki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 202,
+        "sku": "BRK-004",
+        "product_name": "Shokapu ya Nyuma (Bajaji)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-004-shokapu-ya-nyuma-bajaji.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-004-shokapu-ya-nyuma-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 203,
+        "sku": "BRK-005",
+        "product_name": "Shokapu ya Mbele (Bajaji)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-005-shokapu-ya-mbele-bajaji.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-005-shokapu-ya-mbele-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 204,
+        "sku": "BRK-006",
+        "product_name": "Beringi ya Difu",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-006-beringi-ya-difu.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-006-beringi-ya-difu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 205,
+        "sku": "BRK-007",
+        "product_name": "Beringi ya Kemshafuti",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-007-beringi-ya-kemshafuti.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-007-beringi-ya-kemshafuti.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 206,
+        "sku": "BRK-008",
+        "product_name": "Slaidi Difu (Spider Cross)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-008-slaidi-difu-spider-cross.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-008-slaidi-difu-spider-cross.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 207,
+        "sku": "BRK-009",
+        "product_name": "Vikombe vya Juu",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-009-vikombe-vya-juu.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-009-vikombe-vya-juu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 208,
+        "sku": "BRK-010",
+        "product_name": "Vikombe vya Chini",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-010-vikombe-vya-chini.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-010-vikombe-vya-chini.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 209,
+        "sku": "BRK-011",
+        "product_name": "Mabuti ya Raba",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-011-mabuti-ya-raba.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-011-mabuti-ya-raba.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 210,
+        "sku": "BRK-012",
+        "product_name": "Raba za Miguu",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-012-raba-za-miguu.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-012-raba-za-miguu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 211,
+        "sku": "BRK-013",
+        "product_name": "Vilioedi / Vilinda-macho",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-013-vilioedi-vilinda-macho.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-013-vilioedi-vilinda-macho.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 212,
+        "sku": "BRK-014",
+        "product_name": "Pedali ya Breki (Bajaji)",
+        "category": "BRK",
+        "image": "assets/images/products/brakes/BRK-014-pedali-ya-breki-bajaji.jpg",
+        "image_url": "/assets/images/products/brakes/BRK-014-pedali-ya-breki-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 213,
+        "sku": "BOD-001",
+        "product_name": "Kebo ya Gia (Nyeupe)",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-001-kebo-ya-gia-nyeupe.jpg",
+        "image_url": "/assets/images/products/body/BOD-001-kebo-ya-gia-nyeupe.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 214,
+        "sku": "BOD-002",
+        "product_name": "Kebo ya Gia (Nyeusi)",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-002-kebo-ya-gia-nyeusi.jpg",
+        "image_url": "/assets/images/products/body/BOD-002-kebo-ya-gia-nyeusi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 215,
+        "sku": "BOD-003",
+        "product_name": "Kebo ya Klachi (Bajaji)",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-003-kebo-ya-klachi-bajaji.jpg",
+        "image_url": "/assets/images/products/body/BOD-003-kebo-ya-klachi-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 216,
+        "sku": "BOD-004",
+        "product_name": "Lenzi ya Taa ya Nyuma",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-004-lenzi-ya-taa-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/body/BOD-004-lenzi-ya-taa-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 217,
+        "sku": "BOD-005",
+        "product_name": "Lenzi ya Taa ya Mbele",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-005-lenzi-ya-taa-ya-mbele.jpg",
+        "image_url": "/assets/images/products/body/BOD-005-lenzi-ya-taa-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 218,
+        "sku": "BOD-006",
+        "product_name": "Mapepe",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-006-mapepe.jpg",
+        "image_url": "/assets/images/products/body/BOD-006-mapepe.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 219,
+        "sku": "BOD-007",
+        "product_name": "Mapepe",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-007-mapepe.jpg",
+        "image_url": "/assets/images/products/body/BOD-007-mapepe.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 220,
+        "sku": "BOD-008",
+        "product_name": "Makapeti",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-008-makapeti.jpg",
+        "image_url": "/assets/images/products/body/BOD-008-makapeti.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 221,
+        "sku": "BOD-009",
+        "product_name": "Turubai",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-009-turubai.jpg",
+        "image_url": "/assets/images/products/body/BOD-009-turubai.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 222,
+        "sku": "BOD-010",
+        "product_name": "Satimira (Side Mirrors)",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-010-satimira-side-mirrors.jpg",
+        "image_url": "/assets/images/products/body/BOD-010-satimira-side-mirrors.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 223,
+        "sku": "BOD-011",
+        "product_name": "Kibox cha Tundo/Fundo",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-011-kibox-cha-tundo-fundo.jpg",
+        "image_url": "/assets/images/products/body/BOD-011-kibox-cha-tundo-fundo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 224,
+        "sku": "BOD-012",
+        "product_name": "Boliti Full (8/10/13/17)",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-012-boliti-full-8-10-13-17.jpg",
+        "image_url": "/assets/images/products/body/BOD-012-boliti-full-8-10-13-17.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 225,
+        "sku": "BOD-013",
+        "product_name": "Hand Cover",
+        "category": "BOD",
+        "image": "assets/images/products/body/BOD-013-hand-cover.jpg",
+        "image_url": "/assets/images/products/body/BOD-013-hand-cover.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 226,
+        "sku": "BOX-001",
+        "product_name": "Mkono wa Klachi",
+        "category": "BOX",
+        "image": "assets/images/products/clutch/BOX-001-mkono-wa-klachi.jpg",
+        "image_url": "/assets/images/products/clutch/BOX-001-mkono-wa-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 227,
+        "sku": "BOX-002",
+        "product_name": "Mkono wa Breki (125)",
+        "category": "BOX",
+        "image": "assets/images/products/brakes/BOX-002-mkono-wa-breki-125.jpg",
+        "image_url": "/assets/images/products/brakes/BOX-002-mkono-wa-breki-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 228,
+        "sku": "BOX-003",
+        "product_name": "Ringi za Pistoni (125)",
+        "category": "BOX",
+        "image": "assets/images/products/engine/BOX-003-ringi-za-pistoni-125.jpg",
+        "image_url": "/assets/images/products/engine/BOX-003-ringi-za-pistoni-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 229,
+        "sku": "BOX-004",
+        "product_name": "Ringi za Pistoni (125)",
+        "category": "BOX",
+        "image": "assets/images/products/engine/BOX-004-ringi-za-pistoni-125.jpg",
+        "image_url": "/assets/images/products/engine/BOX-004-ringi-za-pistoni-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 230,
+        "sku": "BOX-005",
+        "product_name": "Tepi",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-005-tepi.jpg",
+        "image_url": "/assets/images/products/body/BOX-005-tepi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 231,
+        "sku": "BOX-006",
+        "product_name": "Ajasti ya Cheni (Fupi)",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-006-ajasti-ya-cheni-fupi.jpg",
+        "image_url": "/assets/images/products/body/BOX-006-ajasti-ya-cheni-fupi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 232,
+        "sku": "BOX-007",
+        "product_name": "Ajasti ya Cheni (Ndefu)",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-007-ajasti-ya-cheni-ndefu.jpg",
+        "image_url": "/assets/images/products/body/BOX-007-ajasti-ya-cheni-ndefu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 233,
+        "sku": "BOX-008",
+        "product_name": "Japresa / Dampers",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-008-japresa-dampers.jpg",
+        "image_url": "/assets/images/products/body/BOX-008-japresa-dampers.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 234,
+        "sku": "BOX-009",
+        "product_name": "Plagi Stadi (Pchistatu)",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-009-plagi-stadi-pchistatu.jpg",
+        "image_url": "/assets/images/products/body/BOX-009-plagi-stadi-pchistatu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 235,
+        "sku": "BOX-010",
+        "product_name": "Gia Riva (Gear Lever)",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-010-gia-riva-gear-lever.jpg",
+        "image_url": "/assets/images/products/body/BOX-010-gia-riva-gear-lever.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 236,
+        "sku": "BOX-011",
+        "product_name": "Hoko Kubwa",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-011-hoko-kubwa.jpg",
+        "image_url": "/assets/images/products/body/BOX-011-hoko-kubwa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 237,
+        "sku": "BOX-012",
+        "product_name": "Ndikota za Boxer",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-012-ndikota-za-boxer.jpg",
+        "image_url": "/assets/images/products/body/BOX-012-ndikota-za-boxer.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 238,
+        "sku": "BOX-013",
+        "product_name": "Plagi ya Boxer",
+        "category": "BOX",
+        "image": "assets/images/products/body/BOX-013-plagi-ya-boxer.jpg",
+        "image_url": "/assets/images/products/body/BOX-013-plagi-ya-boxer.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 239,
+        "sku": "BOX-014",
+        "product_name": "Stiki ya Breki Boxer",
+        "category": "BOX",
+        "image": "assets/images/products/brakes/BOX-014-stiki-ya-breki-boxer.jpg",
+        "image_url": "/assets/images/products/brakes/BOX-014-stiki-ya-breki-boxer.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 240,
+        "sku": "BOX-015",
+        "product_name": "Brake Shoe (Boxer 125/150)",
+        "category": "BOX",
+        "image": "assets/images/products/brakes/BOX-015-brake-shoe-boxer-125-150.jpg",
+        "image_url": "/assets/images/products/brakes/BOX-015-brake-shoe-boxer-125-150.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 241,
+        "sku": "TVS-001",
+        "product_name": "Pistoni TVS",
+        "category": "TVS",
+        "image": "assets/images/products/engine/TVS-001-pistoni-tvs.jpg",
+        "image_url": "/assets/images/products/engine/TVS-001-pistoni-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 242,
+        "sku": "TVS-002",
+        "product_name": "Shafuti ya Funguo (TVS)",
+        "category": "TVS",
+        "image": "assets/images/products/accessories/TVS-002-shafuti-ya-funguo-tvs.jpg",
+        "image_url": "/assets/images/products/accessories/TVS-002-shafuti-ya-funguo-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 243,
+        "sku": "TVS-003",
+        "product_name": "Klachi TVS",
+        "category": "TVS",
+        "image": "assets/images/products/clutch/TVS-003-klachi-tvs.jpg",
+        "image_url": "/assets/images/products/clutch/TVS-003-klachi-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 244,
+        "sku": "TVS-004",
+        "product_name": "Maxiko Cheni (TVS)",
+        "category": "TVS",
+        "image": "assets/images/products/transmission/TVS-004-maxiko-cheni-tvs.jpg",
+        "image_url": "/assets/images/products/transmission/TVS-004-maxiko-cheni-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 245,
+        "sku": "TVS-005",
+        "product_name": "Spoketi TVS",
+        "category": "TVS",
+        "image": "assets/images/products/transmission/TVS-005-spoketi-tvs.jpg",
+        "image_url": "/assets/images/products/transmission/TVS-005-spoketi-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 246,
+        "sku": "TVS-006",
+        "product_name": "Ndikota TVS",
+        "category": "TVS",
+        "image": "assets/images/products/electrical/TVS-006-ndikota-tvs.jpg",
+        "image_url": "/assets/images/products/electrical/TVS-006-ndikota-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 247,
+        "sku": "TVS-007",
+        "product_name": "Rilei Stata TVS",
+        "category": "TVS",
+        "image": "assets/images/products/electrical/TVS-007-rilei-stata-tvs.jpg",
+        "image_url": "/assets/images/products/electrical/TVS-007-rilei-stata-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 248,
+        "sku": "TVS-008",
+        "product_name": "Plagi TVS",
+        "category": "TVS",
+        "image": "assets/images/products/engine/TVS-008-plagi-tvs.jpg",
+        "image_url": "/assets/images/products/engine/TVS-008-plagi-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 249,
+        "sku": "TVS-009",
+        "product_name": "Stiki ya Breki TVS",
+        "category": "TVS",
+        "image": "assets/images/products/brakes/TVS-009-stiki-ya-breki-tvs.jpg",
+        "image_url": "/assets/images/products/brakes/TVS-009-stiki-ya-breki-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 250,
+        "sku": "TVS-010",
+        "product_name": "Tairi OG TVS",
+        "category": "TVS",
+        "image": "assets/images/products/tyres/TVS-010-tairi-og-tvs.jpg",
+        "image_url": "/assets/images/products/tyres/TVS-010-tairi-og-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 251,
+        "sku": "TVS-011",
+        "product_name": "Satimila TVS",
+        "category": "TVS",
+        "image": "assets/images/products/accessories/TVS-011-satimila-tvs.jpg",
+        "image_url": "/assets/images/products/accessories/TVS-011-satimila-tvs.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 252,
+        "sku": "TVS-012",
+        "product_name": "Brake Shoe TVS HLX",
+        "category": "TVS",
+        "image": "assets/images/products/brakes/TVS-012-brake-shoe-tvs-hlx.jpg",
+        "image_url": "/assets/images/products/brakes/TVS-012-brake-shoe-tvs-hlx.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 253,
+        "sku": "UNI-001",
+        "product_name": "Pistoni (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-001-pistoni-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-001-pistoni-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 254,
+        "sku": "UNI-002",
+        "product_name": "Pistoni (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-002-pistoni-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-002-pistoni-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 255,
+        "sku": "UNI-003",
+        "product_name": "Valvu (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-003-valvu-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-003-valvu-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 256,
+        "sku": "UNI-004",
+        "product_name": "Valvu (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-004-valvu-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-004-valvu-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 257,
+        "sku": "UNI-005",
+        "product_name": "Tapeti ya Juu (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-005-tapeti-ya-juu-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-005-tapeti-ya-juu-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 258,
+        "sku": "UNI-006",
+        "product_name": "Silvalu (Valve Seals)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-006-silvalu-valve-seals.jpg",
+        "image_url": "/assets/images/products/engine/UNI-006-silvalu-valve-seals.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 259,
+        "sku": "UNI-007",
+        "product_name": "Siti (Seat Foam/Cover)",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-007-siti-seat-foam-cover.jpg",
+        "image_url": "/assets/images/products/body/UNI-007-siti-seat-foam-cover.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 260,
+        "sku": "UNI-008",
+        "product_name": "Tamcheni (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-008-tamcheni-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-008-tamcheni-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 261,
+        "sku": "UNI-009",
+        "product_name": "Shafuti ya Spoketi",
+        "category": "UNI",
+        "image": "assets/images/products/transmission/UNI-009-shafuti-ya-spoketi.jpg",
+        "image_url": "/assets/images/products/transmission/UNI-009-shafuti-ya-spoketi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 262,
+        "sku": "UNI-010",
+        "product_name": "Klachi Peti",
+        "category": "UNI",
+        "image": "assets/images/products/clutch/UNI-010-klachi-peti.jpg",
+        "image_url": "/assets/images/products/clutch/UNI-010-klachi-peti.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 263,
+        "sku": "UNI-011",
+        "product_name": "Mashini ya Klachi",
+        "category": "UNI",
+        "image": "assets/images/products/clutch/UNI-011-mashini-ya-klachi.jpg",
+        "image_url": "/assets/images/products/clutch/UNI-011-mashini-ya-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 264,
+        "sku": "UNI-012",
+        "product_name": "Filta ya Hewa",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-012-filta-ya-hewa.jpg",
+        "image_url": "/assets/images/products/engine/UNI-012-filta-ya-hewa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 265,
+        "sku": "UNI-013",
+        "product_name": "Filta ya Hewa",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-013-filta-ya-hewa.jpg",
+        "image_url": "/assets/images/products/engine/UNI-013-filta-ya-hewa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 266,
+        "sku": "UNI-014",
+        "product_name": "Oil Filter (Pikipiki)",
+        "category": "UNI",
+        "image": "assets/images/products/other/UNI-014-oil-filter-pikipiki.jpg",
+        "image_url": "/assets/images/products/other/UNI-014-oil-filter-pikipiki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 267,
+        "sku": "UNI-015",
+        "product_name": "Fuel Filter (Pikipiki)",
+        "category": "UNI",
+        "image": "assets/images/products/other/UNI-015-fuel-filter-pikipiki.jpg",
+        "image_url": "/assets/images/products/other/UNI-015-fuel-filter-pikipiki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 268,
+        "sku": "UNI-016",
+        "product_name": "Fuel Lock (Pikipiki)",
+        "category": "UNI",
+        "image": "assets/images/products/other/UNI-016-fuel-lock-pikipiki.jpg",
+        "image_url": "/assets/images/products/other/UNI-016-fuel-lock-pikipiki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 269,
+        "sku": "UNI-017",
+        "product_name": "Kemshafuti (Camshaft)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-017-kemshafuti-camshaft.jpg",
+        "image_url": "/assets/images/products/engine/UNI-017-kemshafuti-camshaft.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 270,
+        "sku": "UNI-018",
+        "product_name": "Keni Rodi (Conn. Rod)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-018-keni-rodi-conn-rod.jpg",
+        "image_url": "/assets/images/products/engine/UNI-018-keni-rodi-conn-rod.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 271,
+        "sku": "UNI-019",
+        "product_name": "Kabuleta (125)",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-019-kabuleta-125.jpg",
+        "image_url": "/assets/images/products/engine/UNI-019-kabuleta-125.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 272,
+        "sku": "UNI-020",
+        "product_name": "O-ring ya Kabuleta",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-020-o-ring-ya-kabuleta.jpg",
+        "image_url": "/assets/images/products/engine/UNI-020-o-ring-ya-kabuleta.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 273,
+        "sku": "UNI-021",
+        "product_name": "Rilei Stata",
+        "category": "UNI",
+        "image": "assets/images/products/electrical/UNI-021-rilei-stata.jpg",
+        "image_url": "/assets/images/products/electrical/UNI-021-rilei-stata.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 274,
+        "sku": "UNI-022",
+        "product_name": "Sili za Shokapu",
+        "category": "UNI",
+        "image": "assets/images/products/suspension/UNI-022-sili-za-shokapu.jpg",
+        "image_url": "/assets/images/products/suspension/UNI-022-sili-za-shokapu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 275,
+        "sku": "UNI-023",
+        "product_name": "Sili za Shokapu",
+        "category": "UNI",
+        "image": "assets/images/products/suspension/UNI-023-sili-za-shokapu.jpg",
+        "image_url": "/assets/images/products/suspension/UNI-023-sili-za-shokapu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 276,
+        "sku": "UNI-024",
+        "product_name": "Raba za Vlepa",
+        "category": "UNI",
+        "image": "assets/images/products/other/UNI-024-raba-za-vlepa.jpg",
+        "image_url": "/assets/images/products/other/UNI-024-raba-za-vlepa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 277,
+        "sku": "UNI-025",
+        "product_name": "Open Gear",
+        "category": "UNI",
+        "image": "assets/images/products/transmission/UNI-025-open-gear.jpg",
+        "image_url": "/assets/images/products/transmission/UNI-025-open-gear.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 278,
+        "sku": "UNI-026",
+        "product_name": "Shokapu ya Mbele",
+        "category": "UNI",
+        "image": "assets/images/products/suspension/UNI-026-shokapu-ya-mbele.jpg",
+        "image_url": "/assets/images/products/suspension/UNI-026-shokapu-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 279,
+        "sku": "UNI-027",
+        "product_name": "Shokapu ya Nyuma",
+        "category": "UNI",
+        "image": "assets/images/products/suspension/UNI-027-shokapu-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/suspension/UNI-027-shokapu-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 280,
+        "sku": "UNI-028",
+        "product_name": "Vioo vya Mbele",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-028-vioo-vya-mbele.jpg",
+        "image_url": "/assets/images/products/body/UNI-028-vioo-vya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 281,
+        "sku": "UNI-029",
+        "product_name": "Seti ya Loku",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-029-seti-ya-loku.jpg",
+        "image_url": "/assets/images/products/body/UNI-029-seti-ya-loku.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 282,
+        "sku": "UNI-030",
+        "product_name": "Spiringi Jembe",
+        "category": "UNI",
+        "image": "assets/images/products/other/UNI-030-spiringi-jembe.jpg",
+        "image_url": "/assets/images/products/other/UNI-030-spiringi-jembe.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 283,
+        "sku": "UNI-031",
+        "product_name": "Stendi Ndogo",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-031-stendi-ndogo.jpg",
+        "image_url": "/assets/images/products/body/UNI-031-stendi-ndogo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 284,
+        "sku": "UNI-032",
+        "product_name": "Spiringi Stendi Kubwa",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-032-spiringi-stendi-kubwa.jpg",
+        "image_url": "/assets/images/products/body/UNI-032-spiringi-stendi-kubwa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 285,
+        "sku": "UNI-033",
+        "product_name": "Spiringi Stendi Ndogo",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-033-spiringi-stendi-ndogo.jpg",
+        "image_url": "/assets/images/products/body/UNI-033-spiringi-stendi-ndogo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 286,
+        "sku": "UNI-034",
+        "product_name": "Brake Pad",
+        "category": "UNI",
+        "image": "assets/images/products/brakes/UNI-034-brake-pad.jpg",
+        "image_url": "/assets/images/products/brakes/UNI-034-brake-pad.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 287,
+        "sku": "UNI-035",
+        "product_name": "Pedali",
+        "category": "UNI",
+        "image": "assets/images/products/body/UNI-035-pedali.jpg",
+        "image_url": "/assets/images/products/body/UNI-035-pedali.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 288,
+        "sku": "UNI-036",
+        "product_name": "Spark Plug",
+        "category": "UNI",
+        "image": "assets/images/products/engine/UNI-036-spark-plug.jpg",
+        "image_url": "/assets/images/products/engine/UNI-036-spark-plug.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 289,
+        "sku": "OIL-001",
+        "product_name": "Total Oil (4T)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-001-total-oil-4t.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-001-total-oil-4t.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 290,
+        "sku": "OIL-002",
+        "product_name": "Lake Oil (4T)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-002-lake-oil-4t.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-002-lake-oil-4t.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 291,
+        "sku": "OIL-003",
+        "product_name": "GP Oil (4T)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-003-gp-oil-4t.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-003-gp-oil-4t.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 292,
+        "sku": "OIL-004",
+        "product_name": "Oxy Oil (4T)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-004-oxy-oil-4t.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-004-oxy-oil-4t.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 293,
+        "sku": "OIL-005",
+        "product_name": "Motor Oil (4T)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-005-motor-oil-4t.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-005-motor-oil-4t.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 294,
+        "sku": "OIL-006",
+        "product_name": "Dumu 20W50",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-006-dumu-20w50.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-006-dumu-20w50.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 295,
+        "sku": "OIL-007",
+        "product_name": "Mafuta ya Breki (Ndogo)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-007-mafuta-ya-breki-ndogo.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-007-mafuta-ya-breki-ndogo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 296,
+        "sku": "OIL-008",
+        "product_name": "Mafuta ya Breki (Kubwa)",
+        "category": "OIL",
+        "image": "assets/images/products/fuel/OIL-008-mafuta-ya-breki-kubwa.jpg",
+        "image_url": "/assets/images/products/fuel/OIL-008-mafuta-ya-breki-kubwa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 297,
+        "sku": "TYR-001",
+        "product_name": "Tairi ya Mbele",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-001-tairi-ya-mbele.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-001-tairi-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 298,
+        "sku": "TYR-002",
+        "product_name": "Tairi ya Nyuma",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-002-tairi-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-002-tairi-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 299,
+        "sku": "TYR-003",
+        "product_name": "Tairi ya Yana (Bajaji)",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-003-tairi-ya-yana-bajaji.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-003-tairi-ya-yana-bajaji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 300,
+        "sku": "TYR-004",
+        "product_name": "Chubu ya Mbele",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-004-chubu-ya-mbele.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-004-chubu-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 301,
+        "sku": "TYR-005",
+        "product_name": "Chubu ya Nyuma",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-005-chubu-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-005-chubu-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 302,
+        "sku": "TYR-006",
+        "product_name": "Chubuku",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-006-chubuku.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-006-chubuku.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 303,
+        "sku": "TYR-007",
+        "product_name": "Rime za Tairi",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-007-rime-za-tairi.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-007-rime-za-tairi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 304,
+        "sku": "TYR-008",
+        "product_name": "Ork (Dawa/Gundi)",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-008-ork-dawa-gundi.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-008-ork-dawa-gundi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 305,
+        "sku": "TYR-009",
+        "product_name": "Ork (Dawa/Gundi)",
+        "category": "TYR",
+        "image": "assets/images/products/tyres/TYR-009-ork-dawa-gundi.jpg",
+        "image_url": "/assets/images/products/tyres/TYR-009-ork-dawa-gundi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 306,
+        "sku": "CHN-001",
+        "product_name": "Cheni Single",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-001-cheni-single.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-001-cheni-single.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 307,
+        "sku": "CHN-002",
+        "product_name": "Maxiko Cheni",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-002-maxiko-cheni.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-002-maxiko-cheni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 308,
+        "sku": "CHN-003",
+        "product_name": "Chain Main",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-003-chain-main.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-003-chain-main.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 309,
+        "sku": "CHN-004",
+        "product_name": "Chain Lock",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-004-chain-lock.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-004-chain-lock.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 310,
+        "sku": "CHN-005",
+        "product_name": "Spoketi Single (Nyuma)",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-005-spoketi-single-nyuma.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-005-spoketi-single-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 311,
+        "sku": "CHN-006",
+        "product_name": "Spoket Full",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-006-spoket-full.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-006-spoket-full.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 312,
+        "sku": "CHN-007",
+        "product_name": "Spoketi Ndogo",
+        "category": "CHN",
+        "image": "assets/images/products/transmission/CHN-007-spoketi-ndogo.jpg",
+        "image_url": "/assets/images/products/transmission/CHN-007-spoketi-ndogo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 313,
+        "sku": "BRG-001",
+        "product_name": "Bearing 6001",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-001-bearing-6001.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-001-bearing-6001.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 314,
+        "sku": "BRG-002",
+        "product_name": "Bearing 6002",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-002-bearing-6002.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-002-bearing-6002.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 315,
+        "sku": "BRG-003",
+        "product_name": "Bearing 6003",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-003-bearing-6003.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-003-bearing-6003.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 316,
+        "sku": "BRG-004",
+        "product_name": "Bearing 6004",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-004-bearing-6004.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-004-bearing-6004.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 317,
+        "sku": "BRG-005",
+        "product_name": "Bearing 6202",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-005-bearing-6202.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-005-bearing-6202.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 318,
+        "sku": "BRG-006",
+        "product_name": "Bearing 6203",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-006-bearing-6203.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-006-bearing-6203.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 319,
+        "sku": "BRG-007",
+        "product_name": "Bearing 6205",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-007-bearing-6205.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-007-bearing-6205.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 320,
+        "sku": "BRG-008",
+        "product_name": "Bearing 6301",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-008-bearing-6301.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-008-bearing-6301.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 321,
+        "sku": "BRG-009",
+        "product_name": "Bearing 6302",
+        "category": "BRG",
+        "image": "assets/images/products/wheels/BRG-009-bearing-6302.jpg",
+        "image_url": "/assets/images/products/wheels/BRG-009-bearing-6302.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 322,
+        "sku": "ELE-001",
+        "product_name": "Betiri ya Asidi/Maji",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-001-betiri-ya-asidi-maji.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-001-betiri-ya-asidi-maji.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 323,
+        "sku": "ELE-002",
+        "product_name": "Betiri Kavu/Gel (Jiewi)",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-002-betiri-kavu-gel-jiewi.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-002-betiri-kavu-gel-jiewi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 324,
+        "sku": "ELE-003",
+        "product_name": "Balbu ya Mbele",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-003-balbu-ya-mbele.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-003-balbu-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 325,
+        "sku": "ELE-004",
+        "product_name": "Balbu ya Indiketa",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-004-balbu-ya-indiketa.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-004-balbu-ya-indiketa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 326,
+        "sku": "ELE-005",
+        "product_name": "Balbu za Handle",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-005-balbu-za-handle.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-005-balbu-za-handle.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 327,
+        "sku": "ELE-006",
+        "product_name": "Honi Kubwa",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-006-honi-kubwa.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-006-honi-kubwa.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 328,
+        "sku": "ELE-007",
+        "product_name": "Honi Ndogo",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-007-honi-ndogo.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-007-honi-ndogo.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 329,
+        "sku": "ELE-008",
+        "product_name": "Kimiwesi (Flasher Relay)",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-008-kimiwesi-flasher-relay.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-008-kimiwesi-flasher-relay.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 330,
+        "sku": "ELE-009",
+        "product_name": "Kiki Switch",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-009-kiki-switch.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-009-kiki-switch.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 331,
+        "sku": "ELE-010",
+        "product_name": "Insulation Tape",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-010-insulation-tape.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-010-insulation-tape.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 332,
+        "sku": "ELE-011",
+        "product_name": "Redio za Bluetooth",
+        "category": "ELE",
+        "image": "assets/images/products/electrical/ELE-011-redio-za-bluetooth.jpg",
+        "image_url": "/assets/images/products/electrical/ELE-011-redio-za-bluetooth.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 333,
+        "sku": "CAB-001",
+        "product_name": "Brake Shoe (Box Kamili)",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-001-brake-shoe-box-kamili.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-001-brake-shoe-box-kamili.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 334,
+        "sku": "CAB-002",
+        "product_name": "Vikombe vya Stelingi",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-002-vikombe-vya-stelingi.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-002-vikombe-vya-stelingi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 335,
+        "sku": "CAB-003",
+        "product_name": "Mfumo wa Stelingi",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-003-mfumo-wa-stelingi.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-003-mfumo-wa-stelingi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 336,
+        "sku": "CAB-004",
+        "product_name": "Madigadi ya Mbele",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-004-madigadi-ya-mbele.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-004-madigadi-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 337,
+        "sku": "CAB-005",
+        "product_name": "Pepexa ya Mbele",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-005-pepexa-ya-mbele.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-005-pepexa-ya-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 338,
+        "sku": "CAB-006",
+        "product_name": "Pepexa ya Nyuma",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-006-pepexa-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-006-pepexa-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 339,
+        "sku": "CAB-007",
+        "product_name": "Lenzi ya Nyuma",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-007-lenzi-ya-nyuma.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-007-lenzi-ya-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 340,
+        "sku": "CAB-008",
+        "product_name": "Miradi ya Klachi",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-008-miradi-ya-klachi.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-008-miradi-ya-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 341,
+        "sku": "CAB-009",
+        "product_name": "Miradi ya Breki",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-009-miradi-ya-breki.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-009-miradi-ya-breki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 342,
+        "sku": "CAB-010",
+        "product_name": "Kebo ya Breki",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-010-kebo-ya-breki.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-010-kebo-ya-breki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 343,
+        "sku": "CAB-011",
+        "product_name": "Kebo ya Klachi",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-011-kebo-ya-klachi.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-011-kebo-ya-klachi.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 344,
+        "sku": "CAB-012",
+        "product_name": "Kebo ya Stata/Choke",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-012-kebo-ya-stata-choke.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-012-kebo-ya-stata-choke.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 345,
+        "sku": "CAB-013",
+        "product_name": "Koniraba (Marabomegu)",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-013-koniraba-marabomegu.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-013-koniraba-marabomegu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 346,
+        "sku": "CAB-014",
+        "product_name": "Satimela (Kioo cha Pembeni)",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-014-satimela-kioo-cha-pembeni.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-014-satimela-kioo-cha-pembeni.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 347,
+        "sku": "CAB-015",
+        "product_name": "Nati (Mchanganyiko)",
+        "category": "CAB",
+        "image": "assets/images/products/accessories/CAB-015-nati-mchanganyiko.jpg",
+        "image_url": "/assets/images/products/accessories/CAB-015-nati-mchanganyiko.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 348,
+        "sku": "GER-001",
+        "product_name": "Gloves (Glavu)",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-001-gloves-glavu.jpg",
+        "image_url": "/assets/images/products/accessories/GER-001-gloves-glavu.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 349,
+        "sku": "GER-002",
+        "product_name": "Jaketi ya Pikipiki",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-002-jaketi-ya-pikipiki.jpg",
+        "image_url": "/assets/images/products/accessories/GER-002-jaketi-ya-pikipiki.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 350,
+        "sku": "GER-003",
+        "product_name": "Foot Shoes (Mbele)",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-003-foot-shoes-mbele.jpg",
+        "image_url": "/assets/images/products/accessories/GER-003-foot-shoes-mbele.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 351,
+        "sku": "GER-004",
+        "product_name": "Foot Shoes (Nyuma)",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-004-foot-shoes-nyuma.jpg",
+        "image_url": "/assets/images/products/accessories/GER-004-foot-shoes-nyuma.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 352,
+        "sku": "GER-005",
+        "product_name": "Hand Kafer",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-005-hand-kafer.jpg",
+        "image_url": "/assets/images/products/accessories/GER-005-hand-kafer.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 353,
+        "sku": "GER-006",
+        "product_name": "Urembo na Stika",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-006-urembo-na-stika.jpg",
+        "image_url": "/assets/images/products/accessories/GER-006-urembo-na-stika.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 354,
+        "sku": "GER-007",
+        "product_name": "Super Glue",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-007-super-glue.jpg",
+        "image_url": "/assets/images/products/accessories/GER-007-super-glue.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 355,
+        "sku": "GER-008",
+        "product_name": "Marker Pens",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-008-marker-pens.jpg",
+        "image_url": "/assets/images/products/accessories/GER-008-marker-pens.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    },
+    {
+        "product_id": 356,
+        "sku": "GER-009",
+        "product_name": "Haradife",
+        "category": "GER",
+        "image": "assets/images/products/accessories/GER-009-haradife.jpg",
+        "image_url": "/assets/images/products/accessories/GER-009-haradife.jpg",
+        "status": "AVAILABLE",
+        "physical_appearance_verified": true
+    }
+]

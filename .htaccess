@@ -1,0 +1,21 @@
+# NGENZI MOTO SPARE PARTS — Root Security Rules
+Options -Indexes
+
+# Block sensitive files from direct download
+<FilesMatch "\.(sql|log|env|git|jsonl|md|bak|swp)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Security HTTP Headers (when mod_headers is enabled)
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

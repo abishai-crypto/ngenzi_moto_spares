@@ -1,0 +1,8 @@
+# Security: Prevent execution of scripts in uploads directory
+<FilesMatch "(?i)\.(php|phtml|php3|php4|php5|php7|phps|pl|py|cgi|sh|bash)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+Options -ExecCGI
+Options -Indexes
